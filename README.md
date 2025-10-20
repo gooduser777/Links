@@ -1,2 +1,2 @@
 # Links
-Google.com
+[Google.com](https://www.google.com/?client=safari)
